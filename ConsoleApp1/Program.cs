@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("test");
 
+            Console.WriteLine("新增");
+
             Console.ReadKey();
         }
     }
